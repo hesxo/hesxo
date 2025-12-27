@@ -11,16 +11,15 @@
   <p style="color: #666; font-style: italic;">🔴 Mangekyou Sharingan | Eternal Genjutsu of Code</p>
 </div>
 
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=20&duration=4000&pause=2000&color=DC143C&center=true&vCenter=true&width=500&lines=Amaterasu+%E2%80%A2+Tsukuyomi+%E2%80%A2+Susanoo;Code+in+the+Shadows;Perfection+is+an+Illusion" alt="Itachi Jutsu" />
 </div>
 
 ---
 
+### 💭 Quote
+
 <div align="center">
-  
-  ### 💭 Quote
   
   > **"trying things to see if they work"**
   
@@ -60,10 +59,7 @@
   <i>"I will love you always, even if it's only from afar."</i>
 </p>
 
-
-
 ---
-
 
 ### 📱 Connect With Me
 
@@ -109,10 +105,6 @@
 
 ---
 
-
----
-
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hesxo&label=Profile%20views&color=DC143C&style=for-the-badge&labelColor=000000" alt="Profile Views" />
 </div>
@@ -121,29 +113,17 @@
 
 <div align="center">
   
-  
   <br/>
   
-  <div align="center" style="margin: 30px 0;">
-    <h3 style="color: #DC143C; font-family: monospace;">⚡⚡⚡</h3>
-    <p style="color: #8B0000; font-style: italic; font-size: 14px;">
-      <i>"I will always be there for you, even if it's only as an obstacle for you to overcome."</i>
-    </p>
-  </div>
   
-  <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=65&section=footer&text=Building+the+future%2C+one+commit+at+a+time&fontColor=000000" alt="Footer Wave"/>
-  </div>
 
-  <p align="center" style="color: #DC143C; font-size: 16px; font-weight: bold; margin-top: 20px;">
-    <i>🔴 Sharingan Active | Mangekyou Sharingan Unlocked</i>
+
+  
+  
+  <p align="center" style="color: #666; font-size: 12px; margin-top: 15px;">
+    <i>"Knowledge and awareness are vague, and perhaps better called illusions."</i>
   </p>
   
-  <p align="center" style="color: #8B0000; font-size: 14px; margin-top: 10px; font-style: italic;">
-    <i>"Coding in the shadows, building the future one commit at a time"</i>
-  </p>
-  
- 
   <p align="center" style="color: #8B0000; font-size: 11px; margin-top: 10px; font-style: italic;">
     <i>"We are all but tools of fate."</i>
   </p>
