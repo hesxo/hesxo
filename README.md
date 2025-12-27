@@ -6,7 +6,7 @@
 <h3 align="center">🚀 Passionate Frontend Developer from Sri Lanka</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=Frontend+Developer;React+Enthusiast;GSAP+Expert;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Enthusiast;GSAP+Expert;Always+Learning+New+Tech" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,8 +17,8 @@
 
 ### 🎯 About Me
 
-- 🌱 Currently learning **React Native**
-- 💬 Ask me about **GSAP** (GreenSock Animation Platform)
+- 🌱 Currently learning **Docker & n8n**
+- 💬 Ask me about **Docker, n8n & Automation**
 - 📫 Reach me at **hasaldharmagunawardana@gmail.com**
 - ⚡ Fun fact: **Never as they want💀**
 
@@ -27,12 +27,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hesxo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hesxo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hesxo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hesxo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hesxo&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=hesxo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -89,10 +89,10 @@
   <a href="https://dev.to/hesxo" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
   </a>
-  <a href="https://linkedin.com/in/hasal dharmagunawardana" target="_blank">
+  <a href="https://linkedin.com/in/hasaldharmagunawardana" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://fb.com/hasal dharmagunawardana" target="_blank">
+  <a href="https://fb.com/hasaldharmagunawardana" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://instagram.com/hes.xo_" target="_blank">
@@ -111,7 +111,7 @@
 ### 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hesxo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hesxo&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -119,7 +119,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hesxo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hesxo&theme=tokyonight&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -134,7 +134,23 @@
   <img src="https://komarev.com/ghpvc/?username=hesxo&label=Profile%20views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
 </div>
 
+---
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87c6.gif" width="100%" alt="Footer Animation">
+  
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake">
+  
+  <br/>
+  
+  <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=65&section=footer" alt="Footer Wave"/>
+  </div>
+  
+
+  
+  <p align="center">
+    <i>Building the future, one commit at a time</i>
+  </p>
+  
 </div>
 
