@@ -143,10 +143,7 @@
     <i>"Coding in the shadows, building the future one commit at a time"</i>
   </p>
   
-  <p align="center" style="color: #666; font-size: 12px; margin-top: 15px;">
-    <i>"Knowledge and awareness are vague, and perhaps better called illusions."</i>
-  </p>
-  
+ 
   <p align="center" style="color: #8B0000; font-size: 11px; margin-top: 10px; font-style: italic;">
     <i>"We are all but tools of fate."</i>
   </p>
