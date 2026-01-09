@@ -106,12 +106,6 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hesxo&label=Profile%20views&color=DC143C&style=for-the-badge&labelColor=000000" alt="Profile Views" />
-</div>
-
----
-
-<div align="center">
   
   <br/>
   
